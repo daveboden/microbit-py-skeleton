@@ -6,3 +6,5 @@ Tool to publish script into microbit using a serial connection is:
 https://github.com/bbcmicrobit/micropython/blob/master/tools/pyboard.py
 
 $ pip install pyserial
+
+Script parameters are <COM_NUM> <.py file to apply>
